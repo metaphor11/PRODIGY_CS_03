@@ -1,4 +1,3 @@
-```markdown
 # Password Strength Checker
 
 This is a Python tool that assesses the strength of a password based on various criteria such as length, 
