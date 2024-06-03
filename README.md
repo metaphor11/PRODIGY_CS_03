@@ -25,7 +25,7 @@ to users on the strength of their passwords.
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/metaphor11/password-strength-checker.git
 cd password-strength-checker
 ```
 
@@ -92,5 +92,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-Save this content in a file named `README.md` and place it in the root directory of your project. Make sure to replace `yourusername` with your actual GitHub username if you are planning to host this project on GitHub.
